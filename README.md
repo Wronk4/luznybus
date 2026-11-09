@@ -3,6 +3,16 @@
 **Nie wsiadaj do pierwszego. Wsiądź do luźnego.**
 Planer podróży komunikacją miejską (jak Jakdojade) z dodatkiem: **przewidywanym obłożeniem każdego autobusu**, zanim do niego wsiądziesz. Sieć demo: **Rzeszów** (MPK – autobusy).
 
+## Zrzuty ekranu
+
+| Planowanie trasy | Tryb „Wygodnie” | Tryb „Szybko” |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/01_planowanie.jpg" width="240"> | <img src="docs/screenshots/02_wygodnie.jpg" width="240"> | <img src="docs/screenshots/03_szybko.jpg" width="240"> |
+| **Szczegóły trasy** | **Przystanki w pobliżu** | **Odjazdy na żywo** |
+| <img src="docs/screenshots/04_szczegoly_trasy.jpg" width="240"> | <img src="docs/screenshots/05_przystanki.jpg" width="240"> | <img src="docs/screenshots/06_odjazdy.jpg" width="240"> |
+| **Pojazd – luźno** | **Pojazd – tłok** | **Zgłoszenie obłożenia** |
+| <img src="docs/screenshots/07_pojazd_luzno.jpg" width="240"> | <img src="docs/screenshots/08_pojazd_tlok.jpg" width="240"> | <img src="docs/screenshots/09_zgloszenie.jpg" width="240"> |
+
 ## Uruchomienie
 
 ```bash
