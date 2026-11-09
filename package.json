@@ -1,0 +1,16 @@
+{
+  "name": "luznybus",
+  "version": "0.1.0",
+  "description": "LuźnyBus – planer podróży z przewidywaniem obłożenia autobusów i tramwajów na żywo",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test test/*.test.js",
+    "export-gtfs": "node scripts/export-gtfs.js",
+    "evaluate": "node scripts/evaluate.js",
+    "check-live": "node scripts/check-live.js"
+  }
+}

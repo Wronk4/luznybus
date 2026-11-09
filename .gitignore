@@ -1,0 +1,8 @@
+node_modules/
+.env
+data/gtfs/
+data/gtfs-export/
+.DS_Store
+data/gtfs-live/
+data/gtfs-live.tmp/
+.claude/

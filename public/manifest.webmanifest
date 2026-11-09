@@ -1,0 +1,12 @@
+{
+  "name": "LuźnyBus",
+  "short_name": "LuźnyBus",
+  "description": "Planer podróży z obłożeniem autobusów i tramwajów na żywo",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#13212E",
+  "theme_color": "#13212E",
+  "lang": "pl",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
